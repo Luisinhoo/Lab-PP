@@ -1,6 +1,6 @@
 /*
-   Atividade 4: Leia um n鷐ero real e imprima o resultado do quadrado desse n鷐ero.
-   POR LUÍS H.
+   Atividade 4: Leia um n煤mero real e imprima o resultado do quadrado desse n煤mero.
+   POR LU聛0藛1S H.
 */
 
 #include <stdio.h>
