@@ -1,6 +1,6 @@
 /*
-   Fa鏰 um programa que leia um n鷐ero real e o imprima.
-   POR LUÍS H.
+   Fa莽a um programa que leia um n煤mero real e o imprima.
+   POR LU聛0藛1S H.
 */
 
 #include <stdio.h>
