@@ -1,6 +1,6 @@
 /*
-   Pe鏰 ao usu醨io para digitar tr阺 valores inteiros e imprimia a soma deles.
-   POR LUÍS H.
+   Pe莽a ao usu谩rio para digitar tr锚s valores inteiros e imprimia a soma deles.
+   POR LU聛0藛1S H.
 */
 
 #include <stdio.h>

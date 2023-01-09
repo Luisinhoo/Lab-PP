@@ -1,7 +1,7 @@
 /*
 
-   Atividade 1: Fa鏰 um programa que leia um n鷐ero inteiro e o imprima.
-   POR LUÍS H.
+   Atividade 1: Fa莽a um programa que leia um n煤mero inteiro e o imprima.
+   POR LU聛0藛1S H.
 
 */
 
@@ -9,7 +9,7 @@
 
 int main()
 {
-   int num; //n鷐ero inteiro
+   int num; //n煤mero inteiro
 
    printf("Digite um numero inteiro: ");
    scanf("%d", &num);
